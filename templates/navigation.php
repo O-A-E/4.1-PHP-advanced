@@ -2,9 +2,7 @@
     <h2> Navigation Menu
         <ul>
             <li>
-                <a href="index.php">
-                    Home
-                    </a>
+                <a href="index.php"> Home </a>
             </li>
             <li></li>
         </ul>
