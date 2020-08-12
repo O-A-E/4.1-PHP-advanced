@@ -7,5 +7,13 @@
     <?php echo $GLOBALS['title']; ?>
     | TECHCareers
   </title>
+
+<!-- Style(s): -->
+<link rel="stylesheet" href="css/main.css">
+
+<!-- Script(s): -->
+<script type="text/Javascript" src="js/scripts.js" defer></script>
+
+
 </head>
 <body>
